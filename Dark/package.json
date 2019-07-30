@@ -4,10 +4,10 @@
     "description": "Colorful dark theme for Brackets",
     "version": "1.0.0",
     "author": "Waymans (https://github.com/Waymans)",
-    "homepage": "https://github.com/Waymans/Brackets-Themes/Dark",
+    "homepage": "https://github.com/Waymans/Brackets-Themes/tree/master/Dark",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Waymans/Brackets-Themes/Dark.git"
+        "url": "https://github.com/Waymans/Brackets-Themes/tree/master/Dark"
     },
     "license": "MIT",
     "engines": {

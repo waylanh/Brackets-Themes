@@ -4,10 +4,10 @@
     "description": "Colorful light theme for Brackets.",
     "version": "1.0.0",
     "author": "Waymans (https://github.com/Waymans)",
-    "homepage": "https://github.com/Waymans/Brackets-Themes/Light",
+    "homepage": "https://github.com/Waymans/Brackets-Themes/tree/master/Light",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Waymans/Brackets-Themes/Light.git"
+        "url": "https://github.com/Waymans/Brackets-Themes/tree/master/Light"
     },
     "license": "MIT",
     "engines": {

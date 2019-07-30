@@ -1,7 +1,12 @@
-Wayman's Light Theme for Brackets
+Light Theme for Brackets
 ===============================
 
-A light colorful theme.
+To use, go to Brackets' Extension Manager(EM) and either:
+- search by name and install,
+- use this github url and paste to EM link,
+- or upload manually with this repo's zip file.
+
+---
 
 ## HTML
 ![HTML Screenshot](./screenshots/light-html.png)
