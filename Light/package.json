@@ -1,0 +1,20 @@
+{
+    "title": "Waymans Light",
+    "name": "waymans-light",
+    "description": "Colorful light theme for Brackets.",
+    "version": "1.0.0",
+    "author": "Waymans (https://github.com/Waymans)",
+    "homepage": "https://github.com/Waymans/Brackets-Themes/Light",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Waymans/Brackets-Themes/Light.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "light.css",
+        "dark": false
+    }
+}

@@ -1,2 +1,3 @@
 # Brackets-Themes
-Themes for Brackets editor
+
+Themes for [Brackets](http://brackets.io/) editor.

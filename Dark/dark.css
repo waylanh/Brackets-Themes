@@ -1,0 +1,69 @@
+span.cm-builtin		{ color: indianred; } /* id's */
+span.cm-def			{ color: white; } /* func/var names, classes */
+span.cm-header		{ color: lightgreen; } /* readme */
+span.cm-qualifier	{ color: tomato; } /* readme */
+span.cm-link		{ color: magenta; border-bottom: 1px dotted #333; }
+span.cm-atom		{ color: skyblue; } /* bools, #color, dotted,... */
+span.cm-bracket		{ color: darkcyan; }
+span.cm-meta		{ color: chocolate; } /* doctype */
+span.cm-number		{ color: gold; } /* 0, 1, 2 ... */
+span.cm-operator	{ color: orangered; } /* +, -, >, &, ... */
+span.cm-string		{ color: coral; border-bottom: 1px dotted #333; } /*'"*/
+span.cm-string-2	{ color: salmon; border-bottom: 1px dotted #333; } /*`*/
+span.cm-tag			{ color: lightseagreen; } /* <html></html> */
+span.cm-attribute	{ color: mediumorchid; } /* href, src, value, ... */
+span.cm-keyword		{ color: dodgerblue; font-weight: 600; } /* var,if,... */
+span.cm-property	{ color: lightgreen; } /* object keys, mediumpurple */
+span.cm-variable	{ color: white; } /* console, object  */
+span.cm-variable-2	{ color: violet; } /* used variable */
+span.cm-variable-3	{ color: lightseagreen; } 
+span.cm-comment		{ color: lightsteelblue; font-style: italic; }
+span.cm-error		{ color: crimson; }
+
+.CodeMirror {
+	color: #555;
+    line-height: 1.5;}
+
+.CodeMirror-scroll {
+    background: #000;
+	color: #ddd;} /* {}, text */
+
+.CodeMirror-cursor {
+	border-left: 1px solid #fff !important;}
+
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-bottom: 1px solid #fff !important;
+    border-left: none !important;}
+
+.CodeMirror-gutters {
+	background: #111;} /* left margin */
+
+.CodeMirror-linenumber {
+	color: #777;}
+
+.CodeMirror-selected {
+	background: darkslategray;}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
+	color: mediumvioletred !important;}
+
+.CodeMirror-activeline-background {
+	background: darkslategray !important;}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+	color: #fff;
+	background-color: transparent !important;}
+
+.CodeMirror-matchingbracket {
+    background: plum !important;
+    color: purple !important;}
+
+.CodeMirror-matchingtag {
+    background: #eee !important;}
+
+#image-holder,
+#not-editor {
+    background-color: #333;} /* scroll - bar */
+
+#image-holder {
+    color: #444;}

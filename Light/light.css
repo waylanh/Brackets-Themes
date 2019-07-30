@@ -1,0 +1,69 @@
+span.cm-builtin		{ color: indianred; } /* id's */
+span.cm-def			{ color: black; } /* func/var names */
+span.cm-header		{ color: green; } /* readme */
+span.cm-qualifier	{ color: tomato; } /* readme */
+span.cm-link		{ color: magenta; border-bottom: 1px dotted #333; }
+span.cm-atom		{ color: dodgerblue; } /* bools, #color, dotted,... */
+span.cm-bracket		{ color: darkcyan; }
+span.cm-meta		{ color: darkorange; } /* doctype */
+span.cm-number		{ color: fuchsia; } /* 0, 1, 2 ... */
+span.cm-operator	{ color: forestgreen; } /* +, -, >, &, ... */
+span.cm-string		{ color: tomato; border-bottom: 1px dotted #333; }
+span.cm-string-2	{ color: salmon; border-bottom: 1px dotted #333; } /*``*/
+span.cm-tag			{ color: darkcyan; } /* <html></html> */
+span.cm-attribute	{ color: mediumorchid; } /* href, src, value, ... */
+span.cm-keyword		{ color: deepskyblue; font-weight: 600; } /* var,if,... */
+span.cm-property	{ color: purple; } /* object keys */
+span.cm-variable	{ color: black; } /* console, object  */
+span.cm-variable-2	{ color: darkcyan; } /* used variable */
+span.cm-variable-3	{ color: lightseagreen; } 
+span.cm-comment		{ color: darkviolet; font-style: italic; } 
+span.cm-error		{ color: crimson; }
+
+.CodeMirror {
+	color: #555;
+    line-height: 1.5;}
+
+.CodeMirror-scroll {
+    background: floralwhite;
+	color: #444;}
+
+.CodeMirror-cursor {
+	border-left: 1px solid #000 !important;}
+
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-bottom: 1px solid #000 !important;
+    border-left: none !important;}
+
+.CodeMirror-gutters {
+	background: #eee;}
+
+.CodeMirror-linenumber {
+	color: darkgray;}
+
+.CodeMirror-selected {
+	background: #ccffcc;}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
+	color: mediumvioletred !important;}
+
+.CodeMirror-activeline-background {
+	background: #ccffcc !important;}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+	color: #000;
+	background-color: transparent !important;}
+
+.CodeMirror-matchingbracket {
+    background: plum !important;
+    color: purple !important;}
+
+.CodeMirror-matchingtag {
+    background: #eee !important;}
+
+#image-holder,
+#not-editor {
+    background-color: #fff;}
+
+#image-holder {
+    color: #444;}
