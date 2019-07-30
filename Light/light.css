@@ -22,18 +22,18 @@ span.cm-error		{ color: crimson; }
 
 .CodeMirror {
 	color: #555;
-    line-height: 1.5;}
+	line-height: 1.5;}
 
 .CodeMirror-scroll {
-    background: floralwhite;
+	background: floralwhite;
 	color: #444;}
 
 .CodeMirror-cursor {
 	border-left: 1px solid #000 !important;}
 
 .CodeMirror-overwrite .CodeMirror-cursor {
-    border-bottom: 1px solid #000 !important;
-    border-left: none !important;}
+	border-bottom: 1px solid #000 !important;
+	border-left: none !important;}
 
 .CodeMirror-gutters {
 	background: #eee;}
@@ -55,15 +55,15 @@ span.cm-error		{ color: crimson; }
 	background-color: transparent !important;}
 
 .CodeMirror-matchingbracket {
-    background: plum !important;
-    color: purple !important;}
+	background: plum !important;
+	color: purple !important;}
 
 .CodeMirror-matchingtag {
-    background: #eee !important;}
+	background: #eee !important;}
 
 #image-holder,
 #not-editor {
-    background-color: #fff;}
+	background-color: #fff;}
 
 #image-holder {
-    color: #444;}
+	color: #444;}

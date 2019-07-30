@@ -22,18 +22,18 @@ span.cm-error		{ color: crimson; }
 
 .CodeMirror {
 	color: #555;
-    line-height: 1.5;}
+	line-height: 1.5;}
 
 .CodeMirror-scroll {
-    background: #000;
+	background: #000;
 	color: #ddd;} /* {}, text */
 
 .CodeMirror-cursor {
 	border-left: 1px solid #fff !important;}
 
 .CodeMirror-overwrite .CodeMirror-cursor {
-    border-bottom: 1px solid #fff !important;
-    border-left: none !important;}
+	border-bottom: 1px solid #fff !important;
+	border-left: none !important;}
 
 .CodeMirror-gutters {
 	background: #111;} /* left margin */
@@ -55,15 +55,15 @@ span.cm-error		{ color: crimson; }
 	background-color: transparent !important;}
 
 .CodeMirror-matchingbracket {
-    background: plum !important;
-    color: purple !important;}
+	background: plum !important;
+	color: purple !important;}
 
 .CodeMirror-matchingtag {
-    background: #bbb !important;}
+	background: #444 !important;}
 
 #image-holder,
 #not-editor {
-    background-color: #333;} /* scroll - bar */
+	background-color: #333;} /* scroll - bar */
 
 #image-holder {
-    color: #444;}
+	color: #444;}
