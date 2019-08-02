@@ -1,5 +1,5 @@
 span.cm-builtin		{ color: indianred; } /* id's */
-span.cm-def			{ color: black; } /* func/var names */
+span.cm-def		{ color: black; } /* func/var names */
 span.cm-header		{ color: green; } /* readme */
 span.cm-qualifier	{ color: tomato; } /* readme */
 span.cm-link		{ color: magenta; border-bottom: 1px dotted #333; }
@@ -10,7 +10,7 @@ span.cm-number		{ color: fuchsia; } /* 0, 1, 2 ... */
 span.cm-operator	{ color: forestgreen; } /* +, -, >, &, ... */
 span.cm-string		{ color: tomato; border-bottom: 1px dotted #333; }
 span.cm-string-2	{ color: salmon; border-bottom: 1px dotted #333; } /*``*/
-span.cm-tag			{ color: darkcyan; } /* <html></html> */
+span.cm-tag		{ color: darkcyan; } /* <html></html> */
 span.cm-attribute	{ color: mediumorchid; } /* href, src, value, ... */
 span.cm-keyword		{ color: deepskyblue; font-weight: 600; } /* var,if,... */
 span.cm-property	{ color: purple; } /* object keys */
